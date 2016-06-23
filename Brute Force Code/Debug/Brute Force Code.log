@@ -1,0 +1,9 @@
+﻿  Brute Force Code.cpp
+c:\users\271114\documents\visual studio 2015\projects\brute force code\brute force code\brute force code.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\271114\documents\visual studio 2015\projects\brute force code\brute force code\brute force code.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\271114\documents\visual studio 2015\projects\brute force code\brute force code\brute force code.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\271114\documents\visual studio 2015\projects\brute force code\brute force code\brute force code.cpp(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\271114\documents\visual studio 2015\projects\brute force code\brute force code\brute force code.cpp(192): warning C4018: '<': signed/unsigned mismatch
+c:\users\271114\documents\visual studio 2015\projects\brute force code\brute force code\brute force code.cpp(212): warning C4018: '<': signed/unsigned mismatch
+c:\users\271114\documents\visual studio 2015\projects\brute force code\brute force code\brute force code.cpp(217): warning C4018: '<': signed/unsigned mismatch
+  Brute Force Code.vcxproj -> C:\Users\271114\Documents\Visual Studio 2015\Projects\Brute Force Code\Debug\Brute Force Code.exe
